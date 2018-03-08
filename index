@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Blog de'n XXX</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 0.21" />
+	<link rel="stylesheet" type="text/css" href="blog.css"/>
+</head>
+
+<body>
+<div id="plana">
+<div id="capcalera"><h1>Blog de'n XXX.</h1>
+</div>	
+<div id="cos">
+<div id="menu">
+<h2>Menú</h2>
+<ol>
+<li>Morbi </li>
+<li>Commodo</li>
+<li>Sed</li>
+<li>Vestibulum </li>
+</ol>
+</div>
+<div id="contingut">
+<div class="article" id="destacat">
+<h2>Lorem ipsum Principal</h2>
+<p>Consectetur adipiscing elit. Nunc ultrices magna ac felis fermentum eleifend. Mauris vel velit enim, tristique adipiscing odio. Aliquam erat volutpat. Nullam nec eleifend dolor. Suspendisse potenti. Donec lacinia laoreet imperdiet. Nam sagittis orci ac orci commodo in viverra augue rhoncus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris lacinia, libero ac pharetra rhoncus, quam ante dictum nulla, ut porttitor velit metus eget turpis. Mauris dapibus semper nulla sit amet iaculis. Vestibulum gravida hendrerit elit, sit amet rutrum erat semper ac. Morbi tristique tincidunt urna, vel congue elit placerat eget. Nullam orci lectus, aliquet eu egestas rhoncus, pharetra vel metus. Proin at lacus magna, nec volutpat eros.</p>
+</div>
+
+<div class="article" >
+<h2>Etiam sem risus</h2>
+<p>Aliquam pulvinar semper id, porta a arcu. Curabitur pellentesque convallis vehicula. Praesent quis erat mi. Suspendisse id tempus ligula. Donec at libero ut dolor aliquam pretium vel ac tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer blandit accumsan mauris, non feugiat erat suscipit nec. Vestibulum gravida congue sapien ac tincidunt. Ut gravida dictum velit a rutrum. Nulla id bibendum eros. Nulla a diam a velit elementum imperdiet. Aliquam neque lectus, aliquam quis malesuada nec, ullamcorper id leo. Donec eros augue, pharetra id commodo vel, iaculis eget turpis. Aliquam quis metus in dolor venenatis pellentesque at ac nisl. Duis fermentum magna eget massa rutrum porta. Praesent vitae enim aliquam mi bibendum eleifend ut in magna.</p>
+</div>
+
+<div class="article">
+<h2>Suspendisse aliquam lobortis ullamcorper.</h2>
+<p> Cras ac laoreet erat. Ut nisi dolor, tempus in blandit quis, gravida at justo. Suspendisse erat mi, varius a varius ac, dignissim sed enim. Sed et sem massa, eget faucibus dolor. Nunc sollicitudin metus sit amet ligula consectetur eget consectetur sem laoreet. Ut et eleifend nisl. Curabitur suscipit interdum mi, vel adipiscing neque tincidunt et. Praesent vitae neque nulla, vitae vestibulum ligula. Aliquam tristique tincidunt cursus. Morbi ultrices commodo felis, non varius neque pharetra vel. Morbi eget nunc turpis, at dignissim lectus. Donec suscipit arcu eu arcu pellentesque imperdiet.</p>
+</div>
+
+<div class="article">
+<h2>Morbi scelerisque, nibh et gravida congue</h2>
+<p>Massa erat viverra magna, id molestie erat neque quis diam. Fusce sed orci odio. Mauris et justo felis, eget ultricies nisi. Pellentesque tristique eleifend eros elementum varius. Duis vitae massa mauris, vel tincidunt odio. Mauris elementum sagittis dolor ac ultrices. Morbi ultrices interdum blandit. Curabitur ac sem sit amet lectus ultrices viverra nec in magna. Nunc vitae erat nec lorem viverra ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus risus lorem, viverra eu luctus eu, eleifend vitae nisi. Curabitur ut eros quis metus varius scelerisque. Pellentesque at quam in mauris auctor porta. Donec varius velit at velit varius vitae posuere neque sagittis.</p>
+</div>
+
+<div class="article">
+<h2>Ut sed odio massa. </h2>
+<p>Nam sit amet risus vitae velit faucibus venenatis. Vivamus dignissim libero eget ipsum ornare ut placerat metus pretium. Nulla tincidunt, metus et ullamcorper bibendum, dolor dui mattis urna, non tristique lectus eros quis massa. Ut ipsum mi, sagittis vitae pharetra hendrerit, pulvinar nec purus. Nulla egestas tincidunt libero, semper fringilla nunc rhoncus sit amet. Pellentesque vel metus arcu, eu consequat dui. Quisque ac justo ac leo tristique eleifend. In varius lacinia ultrices. Proin posuere luctus purus gravida mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam dictum iaculis sem at placerat. Sed sed lacus vitae odio pulvinar imperdiet id sed sapien. Pellentesque at risus sed odio vestibulum porta eu sed augue.</p>
+</div>
+
+</div>
+
+
+<div id="peu">
+<p>Curabitur pellentesque convallis vehicula.</p>
+</div>
+</div>
+</div>	
+</body>
+
+</html>
